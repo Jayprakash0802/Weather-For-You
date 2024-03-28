@@ -17,7 +17,7 @@ Prereq apps to have downloaded
 
 Clone the repo:
 ```
-git clone https://github.com/JinKim7/mern-weather-app.git
+git clone https://github.com/Jayprakash0802/Weather-For-You.git
 ```
 
 Download all npm packages for both client/server
